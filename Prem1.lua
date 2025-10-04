@@ -1,4 +1,4 @@
-local ALLOWED_USERS = {"Jiswisna", "FLUFFY_GUCCI1", "simp1le_122", "Afruz1bek", "Ilap99", "l3g2r4c8z0k2g5", "User", "EsetSecurity5", "User", "User", "User", "User", "User", "User", "User", "vkedwardsah024", "imnelsonfl537", "aiadamszv379", "bvcarterjn776", "ezcampbellcc653"}
+local ALLOWED_USERS = {"Jiswisna", "FLUFFY_GUCCI1", "simp1le_122", "Afruz1bek", "Ilap99", "l3g2r4c8z0k2g5", "piskavpope27322", "EsetSecurity5", "User", "User", "User", "User", "User", "User", "User", "vkedwardsah024", "imnelsonfl537", "aiadamszv379", "bvcarterjn776", "ezcampbellcc653"}
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 if not LocalPlayer then
